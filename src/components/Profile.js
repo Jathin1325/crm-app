@@ -16,7 +16,7 @@ const Profile = () => {
   const handleSave = (e) => {
     e.preventDefault();
     setEditMode(false);
-    // In a real app, dispatch an update action here
+    
   };
 
   if (!user) return <div>Loading...</div>;
