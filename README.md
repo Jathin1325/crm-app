@@ -1,3 +1,63 @@
+# CRM React App
+
+A modern CRM (Customer Relationship Management) web application built with React, Redux Toolkit, and DummyJSON API. This app features authentication, dashboard analytics, product management (CRUD), user profile, settings, dark mode, and more.
+
+## Features
+
+- **Login & Authentication** (with public/private routes)
+- **Dashboard** with analytics chart
+- **Product Management** (CRUD: Create, Read, Update, Delete)
+- **Search, filter, and modal editing for products**
+- **Sidebar & Navbar** for navigation
+- **User Profile & Settings** (with dark mode toggle)
+- **Responsive, modern UI**
+- **Dark mode support**
+
+## Tech Stack
+
+- [React](https://reactjs.org/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [React Router](https://reactrouter.com/)
+- [Recharts](https://recharts.org/) (for charts)
+- [DummyJSON API](https://dummyjson.com/) (for authentication and products)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+## Getting Started
+
+### 1. Clone the repository
+```sh
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+cd crm-app
+```
+
+### 2. Install dependencies
+```sh
+npm install
+```
+
+### 3. Start the development server
+```sh
+npm start
+```
+
+The app will run at [http://localhost:3000](http://localhost:3000)
+
+## Usage
+
+- **Login:** Use credentials from [DummyJSON users](https://dummyjson.com/users) (e.g., `emilys` / `emilyspass`)
+- **Dashboard:** View analytics and manage products
+- **Products:** Add, edit, delete, and search products
+- **Profile:** View and (mock) edit your user info
+- **Settings:** Toggle dark mode and select language
+
+## Customization
+- Update the UI, add more features, or connect to your own backend as needed.
+- For advanced features (notifications, role-based access, etc.), see the code comments and roadmap.
+
+## License
+
+This project is for educational/demo purposes. You can use, modify, and distribute it as you wish.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
