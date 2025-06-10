@@ -26,7 +26,7 @@ A modern CRM (Customer Relationship Management) web application built with React
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/Jathin1325/crm-app.git
 cd crm-app
 ```
 
