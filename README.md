@@ -105,3 +105,22 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 "# crm-app" 
+
+## Screenshots of the Project
+
+![image](https://github.com/user-attachments/assets/84a80e01-f52a-4551-b896-f80f263ab230)
+
+![image](https://github.com/user-attachments/assets/49ea5c35-e6f4-496f-9b9a-4d3f903f7254)
+
+![image](https://github.com/user-attachments/assets/1b61e00a-ab73-4978-b141-7dd23aab9fc6)
+
+![image](https://github.com/user-attachments/assets/11501811-21b6-4cf5-ab1a-179b5b568862)
+
+![image](https://github.com/user-attachments/assets/72a3d926-c077-4215-8f1a-db9c7feb7cc0)
+
+![image](https://github.com/user-attachments/assets/289489d4-4624-4115-8fb0-4f54bf260a78)
+
+
+
+
+
